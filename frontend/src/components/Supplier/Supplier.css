@@ -1,0 +1,15 @@
+.supplier-form,
+.supplier-list {
+    margin: 20px;
+}
+
+.supplier-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.supplier-list li {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
